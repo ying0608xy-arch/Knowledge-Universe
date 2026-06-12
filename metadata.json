@@ -1,0 +1,8 @@
+{
+  "name": "知识宇宙",
+  "description": "一个由 AI 驱动的个人空间，将您碎片化的输入转化为由恒星、行星和洞察构构成化的宇宙。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
